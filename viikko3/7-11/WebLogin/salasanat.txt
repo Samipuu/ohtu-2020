@@ -1,8 +1,0 @@
-sami;testi
-samipuu;pitkasalasana1
-sami1936;pitkasalasana1
-sami50571;pitkasalasana1
-samipuu2;salainen1
-testi;testi
-oki;oki
-lol;salainen1
